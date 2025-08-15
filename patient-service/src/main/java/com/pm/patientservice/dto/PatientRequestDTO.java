@@ -22,7 +22,7 @@ public class PatientRequestDTO {
     @NotBlank(message = "Date of birth is required")
     private String dateOfBirth;
 
-    @NotBlank(message = "Registered date is required")
+    @NotNull(message = "Registered date is required")
     private String registeredDate;
 
     public String getName() {
