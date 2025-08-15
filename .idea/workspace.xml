@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf06625d-1752-46bb-9157-4350f0d9456f" name="Changes" comment="Added an endpoint to update patient details" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Exception" />
+        <option value="HTTP Request" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sharukphoenix&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SHARUKESHWAR-P-220701265/Patient-Management-System&quot;,
+    &quot;accountId&quot;: &quot;297c115f-a4e0-4beb-8980-cdf1f777ede8&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="31KZdWb9xfb9FpTbm6yYIcaH99K" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "HTTP Request.create-patient | POST request to create a new patient entry.executor": "Run",
+    "HTTP Request.get-patients | GET request to get all patients.executor": "Run",
+    "HTTP Request.update-patient | PUT request to update a patient's details.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.PatientServiceApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.PatientServiceApplication">
+    <configuration name="create-patient | POST request to create a new patient entry" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-requests/patient-service/create-patient.http" executionIdentifier="POST request to create a new patient entry" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="get-patients | GET request to get all patients" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-requests/patient-service/get-patients.http" executionIdentifier="GET request to get all patients" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="update-patient | PUT request to update a patient's details" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-requests/patient-service/update-patient.http" executionIdentifier="PUT request to update a patient's details" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="PatientServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="patient-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pm.patientservice.PatientServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.update-patient | PUT request to update a patient's details" />
+        <item itemvalue="HTTP Request.create-patient | POST request to create a new patient entry" />
+        <item itemvalue="HTTP Request.get-patients | GET request to get all patients" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26094.121" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-IU-251.26094.121" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Logical" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf06625d-1752-46bb-9157-4350f0d9456f" name="Changes" comment="" />
+      <created>1755274814270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755274814270</updated>
+      <workItem from="1755274816394" duration="1449000" />
+      <workItem from="1755276286197" duration="8642000" />
+      <workItem from="1755288376249" duration="4153000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initializing Project PMS">
+      <option name="closed" value="true" />
+      <created>1755286989226</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755286989226</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding dependencies and configuring the application properties">
+      <option name="closed" value="true" />
+      <created>1755287171702</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755287171702</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Defining the Patient Entity and populating the in memory db with sample data">
+      <option name="closed" value="true" />
+      <created>1755287329829</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1755287329829</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Creating and Retrieving patient details via PatientService by mapping DTOs to patient entities and vice versa">
+      <option name="closed" value="true" />
+      <created>1755287476090</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755287476090</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Implemented PatientController to handle HTTP Requests-Response">
+      <option name="closed" value="true" />
+      <created>1755287600186</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1755287600186</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Testing the &quot;/patients&quot; GET and POST endpoints(IT WORKS!!!)">
+      <option name="closed" value="true" />
+      <created>1755287635630</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1755287635630</updated>
+    </task>
+    <task id="LOCAL-00007" summary="A Global Exception Handler to keep the bad request bodies clean and abstract">
+      <option name="closed" value="true" />
+      <created>1755287667909</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1755287667909</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Implemented a few custom exceptions">
+      <option name="closed" value="true" />
+      <created>1755292347593</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1755292347593</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added an endpoint to update patient details">
+      <option name="closed" value="true" />
+      <created>1755292444959</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1755292444959</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initializing Project PMS" />
+    <MESSAGE value="Adding dependencies and configuring the application properties" />
+    <MESSAGE value="Defining the Patient Entity and populating the in memory db with sample data" />
+    <MESSAGE value="Creating and Retrieving patient details via PatientService by mapping DTOs to patient entities and vice versa" />
+    <MESSAGE value="Implemented PatientController to handle HTTP Requests-Response" />
+    <MESSAGE value="Testing the &quot;/patients&quot; GET and POST endpoints(IT WORKS!!!)" />
+    <MESSAGE value="A Global Exception Handler to keep the bad request bodies clean and abstract" />
+    <MESSAGE value="Implemented a few custom exceptions" />
+    <MESSAGE value="Added an endpoint to update patient details" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added an endpoint to update patient details" />
+  </component>
+</project>

@@ -1,0 +1,290 @@
+PUT http://localhost:4000/patients/4d8c4063-2080-43e3-bd9b-fc05095b1a8e
+Content-Type: application/json
+Content-Length: 174
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name" : "Sharukeshwar P",
+  "email" : "220701265@rajalakshmi.edu.in",
+  "address" : "Stepsstone Ananthaya Apartment, Urapakkam, Chennai",
+  "dateOfBirth": "2005-01-03"
+}
+
+<> 2025-08-16T023543.200.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 203
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name" : "Sharukeshwar P",
+  "email" : "sharukphoenix@gmail.com",
+  "address" : "Stepsstone Ananthaya Apartment, Urapakkam, Chennai",
+  "dateOfBirth": "2005-01-03",
+  "registeredDate": "2025-08-16"
+}
+
+<> 2025-08-16T023522.200.json
+
+###
+
+PUT http://localhost:4000/patients/9b1207c5-c39e-4fb7-9d8d-accff7fa5d1a
+Content-Type: application/json
+Content-Length: 174
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name" : "Sharukeshwar P",
+  "email" : "220701265@rajalakshmi.edu.in",
+  "address" : "Stepsstone Ananthaya Apartment, Urapakkam, Chennai",
+  "dateOfBirth": "2005-01-03"
+}
+
+<> 2025-08-16T022702.400.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 203
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name" : "Sharukeshwar P",
+  "email" : "sharukphoenix@gmail.com",
+  "address" : "Stepsstone Ananthaya Apartment, Urapakkam, Chennai",
+  "dateOfBirth": "2005-01-03",
+  "registeredDate": "2025-08-16"
+}
+
+<> 2025-08-16T022638.200.json
+
+###
+
+PUT http://localhost:4000/patients/51ef6ccd-bdc8-45e3-8fce-e41602e37251
+Content-Type: application/json
+Content-Length: 174
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name" : "Sharukeshwar P",
+  "email" : "220701265@rajalakshmi.edu.in",
+  "address" : "Stepsstone Ananthaya Apartment, Urapakkam, Chennai",
+  "dateOfBirth": "2005-01-03"
+}
+
+<> 2025-08-16T022336.400.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 203
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name" : "Sharukeshwar P",
+  "email" : "sharukphoenix@gmail.com",
+  "address" : "Stepsstone Ananthaya Apartment, Urapakkam, Chennai",
+  "dateOfBirth": "2005-01-03",
+  "registeredDate": "2025-08-16"
+}
+
+<> 2025-08-16T022142.200.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 205
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name" : "Sharukeshwar P I",
+  "email" : "sharukphoenix@gmail.com",
+  "address" : "Stepsstone Ananthaya Apartment, Urapakkam, Chennai",
+  "dateOfBirth": "2005-01-03",
+  "registeredDate": "2025-08-16"
+}
+
+<> 2025-08-16T015508.200.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 205
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name" : "Sharukeshwar P I",
+  "email" : "sharukphoenix@gmail.com",
+  "address" : "Stepsstone Ananthaya Apartment, Urapakkam, Chennai",
+  "dateOfBirth": "2005-01-03",
+  "registeredDate": "2025-08-16"
+}
+
+<> 2025-08-16T015359.400.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 206
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name" : "Sharukeshwar P II",
+  "email" : "sharukphoenix@gmail.com",
+  "address" : "Stepsstone Ananthaya Apartment, Urapakkam, Chennai",
+  "dateOfBirth": "2005-01-03",
+  "registeredDate": "2025-08-16"
+}
+
+<> 2025-08-16T015208.200.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 191
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name" : "Sharukeshwar P",
+  "email" : "email.@.com",
+  "address" : "Stepsstone Ananthaya Apartment, Urapakkam, Chennai",
+  "dateOfBirth": "2005-01-03",
+  "registeredDate": "2025-08-16"
+}
+
+<> 2025-08-16T010746.400.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 191
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name" : "Sharukeshwar P",
+  "email" : "email.@.com",
+  "address" : "Stepsstone Ananthaya Apartment, Urapakkam, Chennai",
+  "dateOfBirth": "2005-01-03",
+  "registeredDate": "2025-08-16"
+}
+
+<> 2025-08-16T010043.400.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 189
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name" : "Sharukeshwar P",
+  "email" : "email@com",
+  "address" : "Stepsstone Ananthaya Apartment, Urapakkam, Chennai",
+  "dateOfBirth": "2005-01-03",
+  "registeredDate": "2025-08-16"
+}
+
+<> 2025-08-16T005935.200.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 180
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name" : "Sharukeshwar P",
+  "email" : "",
+  "address" : "Stepsstone Ananthaya Apartment, Urapakkam, Chennai",
+  "dateOfBirth": "2005-01-03",
+  "registeredDate": "2025-08-16"
+}
+
+<> 2025-08-16T005852.400.json
+
+###
+
+POST http://localhost:4000/patients
+Content-Type: application/json
+Content-Length: 203
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name" : "Sharukeshwar P",
+  "email" : "sharukphoenix@gmail.com",
+  "address" : "Stepsstone Ananthaya Apartment, Urapakkam, Chennai",
+  "dateOfBirth": "2005-01-03",
+  "registeredDate": "2025-08-16"
+}
+
+<> 2025-08-16T005309.200.json
+
+###
+
+GET http://localhost:4000/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-08-16T002043.200.json
+
+###
+
+GET http://localhost:4000/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-08-16T001653.500.json
+
+###
+
+GET http://localhost:4000/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-08-16T001112.500.json
+
+###
+
