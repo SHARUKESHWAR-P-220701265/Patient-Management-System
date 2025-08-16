@@ -1,3 +1,11 @@
+DELETE http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
 PUT http://localhost:4000/patients/4d8c4063-2080-43e3-bd9b-fc05095b1a8e
 Content-Type: application/json
 Content-Length: 174
