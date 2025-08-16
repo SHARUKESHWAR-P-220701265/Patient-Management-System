@@ -1,3 +1,12 @@
+GET http://localhost:4000/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-08-16T164107.200.json
+
+###
+
 DELETE http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174000
 User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.2
 Accept-Encoding: br, deflate, gzip, x-gzip
