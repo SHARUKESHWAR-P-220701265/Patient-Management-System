@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf06625d-1752-46bb-9157-4350f0d9456f" name="Changes" comment="http requests logs">
+    <list default="true" id="bf06625d-1752-46bb-9157-4350f0d9456f" name="Changes" comment="Added an endpoint to delete a patient record">
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patient-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/patient-service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/patient-service/src/main/java/com/pm/patientservice/controller/PatientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/patient-service/src/main/java/com/pm/patientservice/controller/PatientController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patient-service/src/main/java/com/pm/patientservice/service/PatientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/patient-service/src/main/java/com/pm/patientservice/service/PatientService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +61,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;HTTP Request.create-patient | POST request to create a new patient entry.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.delete-patient | DELETE request to delete a patient record.executor&quot;: &quot;Run&quot;,
     &quot;HTTP Request.get-patients | GET request to get all patients.executor&quot;: &quot;Run&quot;,
     &quot;HTTP Request.update-patient | PUT request to update a patient's details.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
@@ -131,7 +133,8 @@
       <workItem from="1755274816394" duration="1449000" />
       <workItem from="1755276286197" duration="8642000" />
       <workItem from="1755288376249" duration="4937000" />
-      <workItem from="1755315471561" duration="341000" />
+      <workItem from="1755315471561" duration="1197000" />
+      <workItem from="1755316703470" duration="571000" />
     </task>
     <task id="LOCAL-00001" summary="Initializing Project PMS">
       <option name="closed" value="true" />
@@ -213,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755292652763</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added an endpoint to delete a patient record">
+      <option name="closed" value="true" />
+      <created>1755316064478</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1755316064479</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,6 +264,7 @@
     <MESSAGE value="Implemented a few custom exceptions" />
     <MESSAGE value="Added an endpoint to update patient details" />
     <MESSAGE value="http requests logs" />
-    <option name="LAST_COMMIT_MESSAGE" value="http requests logs" />
+    <MESSAGE value="Added an endpoint to delete a patient record" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added an endpoint to delete a patient record" />
   </component>
 </project>
